@@ -135,7 +135,6 @@ footer p {
 
 /* -------  Media Query ------- */
 @media (min-width: 480px) {
-
   header {
     display: flex;
     flex-direction: row;
@@ -152,7 +151,7 @@ footer p {
   form input {
     margin-bottom: 0;
     width: 180px;
-}
+  }
 
   form div {
     display: flex;
@@ -186,5 +185,4 @@ footer p {
     justify-content: center;
     flex-direction: column;
   }
-
 }
